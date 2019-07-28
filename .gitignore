@@ -17,8 +17,5 @@
  ######################
  # OS generated files #
  .DS_Store*
-BOJ/.DS_Store
-BOJ/1000/.DS_Store
-BOJ/.DS_Store
-.DS_Store
-/bin
+bin
+playground

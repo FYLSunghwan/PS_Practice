@@ -16,6 +16,7 @@
 
  ######################
  # OS generated files #
- .DS_Store*
+ *.DS_Store*
 bin
 playground
+.vscode

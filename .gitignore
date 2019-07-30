@@ -19,5 +19,4 @@
  *.DS_Store*
 bin
 playground
-.vscode
-.DS_Store
+.vscode/
